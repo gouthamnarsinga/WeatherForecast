@@ -29,7 +29,7 @@ To run the Weather Forecast App on your local machine, follow these steps:
 # Clone the repository:
 
 ```console
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/gouthamnarsinga/WeatherForecast.git
 ```
 
 1. Open the project in Xcode.
