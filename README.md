@@ -31,9 +31,12 @@ Build and run the project on a simulator or a physical device.
 
 # Requirements
 
-Xcode 12.0+
-Swift 5.3+
-iOS 14.0+
-Contributing
+- Xcode 12.0+
+
+- Swift 5.3+
+
+- iOS 14.0+
+
+# Contributing
 
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve the Weather App.
