@@ -13,6 +13,12 @@ struct ContentView: View {
     
     var body: some View {
         ZStack {
+            if viewModel.isLoading {
+                ProgressView()
+                    .progressViewStyle(.circular)
+                    .foregroundColor(.white)
+                    .fixedSize()
+            }
             GeometryReader { geometry in
                 Image("images")
                     .resizable()
