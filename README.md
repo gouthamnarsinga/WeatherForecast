@@ -9,7 +9,8 @@ Showcase UI/UX Design Skills: The user interface of the app is designed to provi
 Implement Clean and Scalable Architecture: The project follows a structured architecture pattern to ensure maintainability, readability, and scalability of the codebase.
 Utilize Asynchronous Programming: Asynchronous programming techniques are employed to handle API calls for fetching weather data, ensuring smooth app performance and responsiveness.
 Employ Error Handling and User Input Validation: The app incorporates robust error handling mechanisms to gracefully handle network errors and invalid user inputs, providing a seamless user experience.
-Features
+
+# Features
 
 Current Weather Display: View the current weather conditions including temperature, humidity, wind speed, etc.
 3-Day Forecast: Get a forecast for the next three days, allowing users to plan ahead.
@@ -18,13 +19,17 @@ Getting Started
 
 To run the Weather App on your local machine, follow these steps:
 
-Clone the repository:
-bash
-Copy code
+# Clone the repository:
+
+```console
 git clone https://github.com/your-username/weather-app.git
+```
+
 Open the project in Xcode.
+
 Build and run the project on a simulator or a physical device.
-Requirements
+
+# Requirements
 
 Xcode 12.0+
 Swift 5.3+
@@ -32,7 +37,3 @@ iOS 14.0+
 Contributing
 
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve the Weather App.
-
-License
-
-This project is licensed under the MIT License.
