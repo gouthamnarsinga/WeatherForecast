@@ -1,4 +1,4 @@
-# WeatherForecast
+# Weather Forecast App
 
 A simple iOS application built with Swift and SwiftUI that displays the current weather and a 3-day forecast for a location. Users can enter a city name to retrieve and display weather data.
 
@@ -16,12 +16,15 @@ A simple iOS application built with Swift and SwiftUI that displays the current 
 
 # Features
 
-Current Weather Display: View the current weather conditions including temperature, humidity, wind speed, etc.
-3-Day Forecast: Get a forecast for the next three days, allowing users to plan ahead.
-Search by City Name: Users can enter the name of their desired city to retrieve weather information for that location.
-Getting Started
+- **Current Weather Display:** View the current weather conditions including temperature, humidity, wind speed, etc.
 
-To run the Weather App on your local machine, follow these steps:
+- **3-Day Forecast:** Get a forecast for the next three days, allowing users to plan ahead.
+
+- **Search by City Name:** Users can enter the name of their desired city to retrieve weather information for that location.
+
+# Getting Started
+
+To run the Weather Forecast App on your local machine, follow these steps:
 
 # Clone the repository:
 
@@ -29,9 +32,9 @@ To run the Weather App on your local machine, follow these steps:
 git clone https://github.com/your-username/weather-app.git
 ```
 
-Open the project in Xcode.
+1. Open the project in Xcode.
 
-Build and run the project on a simulator or a physical device.
+2. Build and run the project on a simulator or a physical device.
 
 # Requirements
 
@@ -43,4 +46,4 @@ Build and run the project on a simulator or a physical device.
 
 # Contributing
 
-Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve the Weather App.
+Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve the Weather Forecast App.
