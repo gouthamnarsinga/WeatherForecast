@@ -4,11 +4,15 @@ A simple iOS application built with Swift and SwiftUI that displays the current 
 
 # Objectives
 
-Demonstrate Proficiency in Swift and SwiftUI: The project showcases the use of Swift programming language and SwiftUI framework to build a modern iOS application.
-Showcase UI/UX Design Skills: The user interface of the app is designed to provide a seamless and intuitive experience for users to view weather information.
-Implement Clean and Scalable Architecture: The project follows a structured architecture pattern to ensure maintainability, readability, and scalability of the codebase.
-Utilize Asynchronous Programming: Asynchronous programming techniques are employed to handle API calls for fetching weather data, ensuring smooth app performance and responsiveness.
-Employ Error Handling and User Input Validation: The app incorporates robust error handling mechanisms to gracefully handle network errors and invalid user inputs, providing a seamless user experience.
+1. **Demonstrate Proficiency in Swift and SwiftUI:** The project showcases the use of Swift programming language and SwiftUI framework to build a modern iOS application.
+
+2. **Showcase UI/UX Design Skills:** The user interface of the app is designed to provide a seamless and intuitive experience for users to view weather information.
+
+3. **Implement Clean and Scalable Architecture:** The project follows a structured architecture pattern to ensure maintainability, readability, and scalability of the codebase.
+
+4. **Utilize Asynchronous Programming:** Asynchronous programming techniques are employed to handle API calls for fetching weather data, ensuring smooth app performance and responsiveness.
+
+5. **Employ Error Handling and User Input Validation:** The app incorporates robust error handling mechanisms to gracefully handle network errors and invalid user inputs, providing a seamless user experience.
 
 # Features
 
