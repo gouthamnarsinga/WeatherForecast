@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DC846F64-F49E-4F8F-B1FA-045D9E97F9E2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC33195C-3317-4840-A31E-0E676F1DC70D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherForecast/ViewModel/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchCurrentWeather(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EC33195C-3317-4840-A31E-0E676F1DC70D - ef795c811745639a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherForecast.WeatherViewModel.fetchCurrentWeather(for: Swift.String) -&gt; ()"
+                  moduleName = "WeatherForecast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alyx/Downloads/Desktop/Goutham/WeatherForecast/WeatherForecast/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "EC33195C-3317-4840-A31E-0E676F1DC70D - e82119aa250ee3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;WeatherForecast.CurrentWeatherData, WeatherForecast.APIService.APIError&gt;) -&gt; () in WeatherForecast.WeatherViewModel.fetchCurrentWeather(for: Swift.String) -&gt; ()"
+                  moduleName = "WeatherForecast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alyx/Downloads/Desktop/Goutham/WeatherForecast/WeatherForecast/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "206">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
